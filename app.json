@@ -105,7 +105,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Eğer bunu bilmiyorsan, Kendi repo adını git olarak yaz.",
-        "value": "https://github.com/emila0/zt",
+        "value": "https://github.com/emilaza/zt",
         "required": true
       },
       "UPSTREAM_BRANCH": {
