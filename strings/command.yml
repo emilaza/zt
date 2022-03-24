@@ -1,0 +1,70 @@
+# Her Dilde Komutlar (Hangi dil yapmasını yaptıysan Aslan parçası :) komutu ekle örnek = "oynat" gibi o dile göre yanına koy... Denendi çalıştı... Hadi kolay gelsin. Telegram'da @ByWolk diye bulursun... Kendine iyi bak.. 
+
+# Bot Commands
+PING_COMMAND : ["ping"]
+START_COMMAND : ["start"]
+HELP_COMMAND : ["help"]
+SETTINGS_COMMAND : ["settings"]
+RELOAD_COMMAND : ["admincache", "reload"]
+STATS_COMMAND : ["stats"]
+LANGUAGE_COMMAND : ["lang", "language"]
+
+# Play Commands
+PLAY_COMMAND : ["play", "vplay","cplay", "oynat", "dinle"]
+PLAYMODE_COMMAND : ["playmode"]
+CHANNELPLAY_COMMAND : ["channelplay"]
+STREAM_COMMAND : ["stream"]
+
+#Playlists Command
+PLAYLIST_COMMAND : ["playlist"]
+DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
+
+
+# Tools
+QUEUE_COMMAND : ["queue", "sira"]
+SONG_COMMAND : ["song", "bul"]
+LYRICS_COMMAND : ["lyrics", "soz"]
+
+
+# Admin Commands
+AUTH_COMMAND : ["auth"]
+UNAUTH_COMMAND : ["unauth"]
+AUTHUSERS_COMMAND : ["authusers"]
+PAUSE_COMMAND : ["pause", "durdur"]
+RESUME_COMMAND : ["resume", "devam"]
+MUTE_COMMAND : ["qq"]
+UNMUTE_COMMAND : ["qp"]
+STOP_COMMAND : ["stop", "end", "son"]
+SKIP_COMMAND : ["skip", "atla"]
+SHUFFLE_COMMAND : ["shuffle", "karistir"]
+LOOP_COMMAND : ["loop", "tekrarla"]
+
+
+# Sudo Users Commaands
+ADDSUDO_COMMAND : ["addsudo"]
+DELSUDO_COMMAND : ["delsudo"]
+SUDOUSERS_COMMAND : ["sudolist"]
+BROADCAST_COMMAND : ["broadcast", "reklam"]
+BLACKLISTCHAT_COMMAND : ["blacklistchat"]
+WHITELISTCHAT_COMMAND : ["whitelist"]
+BLACKLISTEDCHAT_COMMAND : ["blacklistedchat"]
+VIDEOLIMIT_COMMAND : ["set_video_limit"]
+MAINTENANCE_COMMAND : ["maintenance"]
+LOGGER_COMMAND : ["logger"]
+GETLOG_COMMAND : ["get_log"]
+GETVAR_COMMAND : ["get_var"]
+DELVAR_COMMAND : ["del_var"]
+SETVAR_COMMAND : ["set_var"]
+USAGE_COMMAND : ["usage"]
+UPDATE_COMMAND : ["update"]
+RESTART_COMMAND : ["restart"]
+AUTHORIZE_COMMAND : ["authorize"]
+UNAUTHORIZE_COMMAND : ["unauthorize"]
+AUTHORIZED_COMMAND : ["authorized"]
+BLOCK_COMMAND : ["block"]
+UNBLOCK_COMMAND : ["unblock"]
+BLOCKED_COMMAND : ["blockedusers"]
+VIDEOMODE_COMMAND : ["videomode"]
+SPEEDTEST_COMMAND : ["speedtest"]
+ACTIVEVC_COMMAND : ["activevoice"]
+ACTIVEVIDEO_COMMAND : ["activevideo"]
